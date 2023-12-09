@@ -37,6 +37,7 @@ ehthumbs.db
 Thumbs.db
 
 # Ignore dependencies and package managers
+/node_modules
 /src/node_modules
 /bower_components
 /vendor
