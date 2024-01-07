@@ -1,0 +1,22 @@
+body {
+    background-color: #0d0d0d;
+    color:#ffffff;
+    font-family: "Lucida Console", Monaco, monospace;
+    font-size: 15px;
+}
+.container {
+    width: 95vw;        /* Width of the container */
+    height: 90vh;     /* Height of the container */
+    margin: auto;      /* Center the container */
+    padding: 20px;     /* Padding inside the container */
+    border: 1px solid #ffffff; /* Border around the container */
+    background-color: #0d0d0d; /* Background color of the container */
+}
+
+ol {
+    list-style-type: none;
+}
+
+a{
+    color: #ffffff;
+}
